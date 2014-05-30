@@ -3,7 +3,7 @@ codeigniter-hmvc-public-index
 
 Starter files with Codeigniter with Modular Extensions - HMVC and index.php placed inside a "public" to begin improving security of the application. 
 
-Follow the tutorial at http://jagzlabs.com/development/php-development/codeigniter-hmvc-secure-index ‎
+Follow the tutorial at http://jagzlabs.com/development/php-development/hmvc-codeigniter-secure-index
 
 ##  Virtual Hosts config
 ```
